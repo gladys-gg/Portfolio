@@ -98,3 +98,8 @@ header .header-content .content p {
   color: #000000;
 }
 
+/* footer styling */
+#footer {
+  background-color: #808080;
+  text-align: center;
+}
