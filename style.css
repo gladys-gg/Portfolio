@@ -85,3 +85,16 @@ header .header-content .content p {
 .servicesText:hover {
   border: 1px solid rgb(0, 142, 236);
 }
+
+/* social media icons styling */
+.social-icons {
+  font-size: 36px;
+  cursor: pointer;
+}
+.fa-facebook:hover,.fa-instagram:hover,.fa-twitter:hover,.fa-linkedin:hover {
+  color: rgb(0, 142, 236);
+}
+.fab {
+  color: #000000;
+}
+
