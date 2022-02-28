@@ -44,7 +44,6 @@ The web currently runs smoothly with no hitches.
 ## Author's infomation 
 For any questions or suggestions.Kindly contact me at gladysmwangi04@yahoo.com.
 
-![Landingpage](https://user-images.githubusercontent.com/73462428/155896136-70bc23fa-218b-4e24-bbb4-aaa6d8649274.jpeg)
 
 MIT License
 
